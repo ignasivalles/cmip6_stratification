@@ -1,0 +1,13 @@
+# Ignore data and output files
+data/
+outputs/
+papers/
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode and __pycache__
+__pycache__/
+*.pyc
+*.pyo
+
+
